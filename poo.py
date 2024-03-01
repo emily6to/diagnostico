@@ -1,0 +1,1 @@
+## crear una clase llamada vehículo capaz de procesar la información básica de los autos en una concesionaria. Deberá tener constructor y los atributos del vehículo serán: patente, marca, modelo, kilometraje. Crear métodos (de acceso) getter y (de modificación) setter. Mostar por pantalla al menos un atributo y modificar el kilometraje. 
